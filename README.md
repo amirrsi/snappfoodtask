@@ -1,4 +1,4 @@
-# Data Analyst Task
+# Planning Data Analyst Task
 ## Overview
 This project tackles a data-driven challenge designed to test the skills relevant to Planning Data Analyst roles, including data analysis, visualization and database management. The task involves working with a dataset of restaurant information from Rafsanjan, performing data cleaning, analysis, creating interactive dashboards, and preparing the data for database storage.
 
