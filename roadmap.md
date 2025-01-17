@@ -36,3 +36,23 @@ Use the A-E rating system to segment restaurants and focus on improving those wi
 Acquisition of first 500-1000 users in Rafsanjan.
 Establish a solid relationship with 5-10 restaurant partners (focus on customer retention and positive reviews).
 Start comparing your performance with Zoodex (check if they have similar deals or partnerships).
+
+
+## Month 7-8: Expansion & Service Refinement
+# Action Plan:
+Scale up operations by onboarding additional restaurants (focus on middle-tier restaurants with B and C ratings).
+Improve delivery speed and customer support.
+Collect data on user behavior (most ordered items, preferred restaurants, delivery time preferences).
+Introduce loyalty programs (discounts for regular customers, or rewards after a certain number of orders).
+# Goals:
+Onboard 20-30 restaurants in Rafsanjan.
+Improve customer retention rate by at least 10%.
+Improve your local brand presence by offering better customer service than Zoodex.
+Product Diversification & Marketing Optimization
+## Action Plan:
+Diversify your offerings by adding more cuisines, promotional deals, or creating exclusive partnerships (e.g., early access to new menu items).
+Implement referral programs to encourage users to bring in new customers.
+Fine-tune marketing campaigns based on the data from Semester 1 (use geo-targeting, local language, and local food trends).
+## Goals:
+Achieve an increase in customer base by 20-30%.
+Promote new features and loyalty programs to sustain engagement and encourage long-term usage.
