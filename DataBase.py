@@ -1,12 +1,12 @@
 import sqlite3
 import pandas as pd
 
-path = 'Datasets/cleaned zoodex.csv'
+path = '/Users/amirreisi/Documents/personal/snappfood project/final/final_restaurant_data.csv'
 
 df = pd.read_csv(path)
 
 # Create a new SQLite database
-conn = sqlite3.connect('SnappFoodDataBase.db')
+conn = sqlite3.connect('restaurantsdata.db')
 cursor = conn.cursor()
 
 cursor.execute("DROP TABLE IF EXISTS CSAT;")
